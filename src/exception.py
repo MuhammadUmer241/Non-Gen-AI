@@ -1,5 +1,5 @@
 import sys
-from logger import 
+from src.logger import logging
 def error_message_details(error,error_details: sys):
     _, _, exc_tb= error_details.exc_info()
     exc_file= exc_tb.tb_frame.f_code.co_filename
@@ -19,8 +19,8 @@ class Custom_Exception(Exception):
 if __name__ == "__main__":
     try:
         a = 1 / 0
-        logging.info("This will not be logged because of the error")  # Would not be reached
+        # logging.info("This will not be logged because of the error")  # Would not be reached
     except Exception as e:
-        logging.info(f"An error occurred: {e}")  # Log the actual error
+        logging.info(f"An error occurred")  # Log the actual error
         raise Custom_Exception(e, sys)
 
