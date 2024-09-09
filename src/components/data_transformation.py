@@ -53,9 +53,10 @@ class data_transformation_initiate:
                 self.preprocessor_path.data_preprocessor_path,
                 pipeline
             )
+            root_dir= os.path.dirname(os.path.dirname(os.getcwd()))
+            pickle_File_path = os.path.join(root_dir, self.preprocessor_path.data_preprocessor_path)
 
-            return (self.preprocessor_path.data_preprocessor_path,
-                    pipeline)
+            return (pickle_File_path)
         except Exception as e:
             Custom_Exception(e,sys)
 
