@@ -53,4 +53,5 @@ if __name__== "__main__":
     obj= dataingestion()
     train_data_path , test_data_path = obj.data_ingestion()
     pipe= data_transformation_initiate()
-    pipe.data_transformtion_init(train_data_path, test_data_path)
+    pipeline_path= pipe.data_transformtion_init(train_data_path, test_data_path)
+    # train.to_csv("trian.csv")
