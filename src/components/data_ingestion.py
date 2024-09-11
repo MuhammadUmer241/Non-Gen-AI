@@ -7,7 +7,6 @@ from src.logger import logging
 from src.exception import Custom_Exception
 from dataclasses import dataclass
 from src.components.data_transformation import data_transformation_initiate
-from src.utlis import save_obj
 from src.components.model_trainer import model_trainer
 
 
