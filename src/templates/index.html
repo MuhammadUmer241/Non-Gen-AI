@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form with Specified Fields</title>
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <link rel="stylesheet" href="{{ css_url }}">
+</head>
+<body>
+    <h2 style="text-align: center;">Bank Loyal Client Prediction Model </h2>
+    <form id="myForm">
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required><br>
+
+            <label for="job">Job:</label>
+            <select id="job" name="job" required>
+                <option value="">Select Job</option>
+                </select><br>
+
+            <label for="marital">Marital Status:</label>
+            <select id="marital" name="marital" required>
+                <option value="">Select Marital Status</option>
+                </select><br>
+
+            <label for="education">Education:</label>
+            <select id="education" name="education" required>
+                <option value="">Select Education</option>
+                </select><br>
+
+            <label for="default">Default:</label>
+            <select id="default" name="default" required>
+                <option value="">Select Default</option>
+                <option value="">yes</option>
+                <option value="">no</option>
+                <option value="">unkown</option>
+                </select><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Loan Information</legend>
+            <label for="someLoan">Some Loan:</label>
+            <input type="text" id="someLoan" name="someLoan" required><br>
+
+            <label for="month">Month:</label>
+            <select id="month" name="month" required>
+                <option value="">Select Month</option>
+                </select><br>
+
+            <label for="poutcome">Poutcome:</label>
+            <select id="poutcome" name="poutcome" required>
+                <option value="">Select Poutcome</option>
+                </select><br>
+
+            <label for="contact">Contact:</label>
+            <select id="contact" name="contact" required>
+                <option value="">Select Contact</option>
+                </select><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Economic Indicators</legend>
+            <label for="cons_conf_idx">Consumer Confidence Index:</label>
+            <input type="number" id="cons_conf_idx" name="cons_conf_idx" required><br>
+
+            <label for="euribor3m">Euribor 3M:</label>
+            <input type="number" id="euribor3m" name="euribor3m" required><br>
+
+            <label for="nr_employed">Number Employed:</label>
+            <input type="number" id="nr_employed" name="nr_employed" required><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Additional Information</legend>
+            <label for="previous_bins">Previous Bins:</label>
+            <input type="text" id="previous_bins" name="previous_bins" required><br>
+
+            <label for="duration">Duration:</label>
+            <input type="number" id="duration" name="duration" required><br>
+
+            <label for="cons_price_idx">Consumer Price Index:</label>
+            <input type="number" id="cons_price_idx" name="cons_price_idx" required><br>
+        </fieldset>
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

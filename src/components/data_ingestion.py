@@ -2,11 +2,13 @@ import os
 import sys
 import pandas as pd
 from sklearn.model_selection import train_test_split
+import xgboost as xgb
 from src.logger import logging
 from src.exception import Custom_Exception
 from dataclasses import dataclass
 from src.components.data_transformation import data_transformation_initiate
 from src.utlis import save_obj
+from src.components.model_trainer import model_trainer
 
 
 @dataclass
@@ -54,4 +56,5 @@ if __name__== "__main__":
     train_data_path , test_data_path = obj.data_ingestion()
     pipe= data_transformation_initiate()
     pipeline_path= pipe.data_transformtion_init(train_data_path, test_data_path)
-    # train.to_csv("trian.csv")
+    model= model_trainer()
+    model.model_trainer_initate(train_data_path, test_data_path, pipeline_path,xgb.XGBClassifier())

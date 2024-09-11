@@ -39,7 +39,7 @@ class model_trainer:
         y_test= test_df["y"]
         train_df_drop= train_df.drop("y",axis=1)
         test_df_drop = test_df.drop("y",axis=1)
-        train_df_drop.to_csv("train_dfff")
+
         with open(preprocessor_path,"rb") as f:
             preprocesor =  pickle.load(f)
         X_train_Drop = preprocesor.fit_transform(train_df_drop)

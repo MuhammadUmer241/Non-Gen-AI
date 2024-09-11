@@ -1,0 +1,5 @@
+[2024-09-09 06:03:45,497 ] 25 root- INFO Read dataframe
+[2024-09-09 06:03:46,481 ] 36 root- INFO Enter Raw Data
+[2024-09-09 06:03:46,482 ] 38 root- INFO Train Test Initiate
+[2024-09-09 06:03:47,665 ] 45 root- INFO Pickle File
+[2024-09-09 06:03:47,667 ] 18 root- INFO Pickle file saved successfully!

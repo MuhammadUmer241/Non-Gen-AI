@@ -23,7 +23,7 @@ class data_transformation_initiate:
         self.preprocessor_path= data_tranformation_config()
 
     def data_transformtion_init(self, train_path, test_path):
-        
+
         try:
             train_df= pd.read_csv(train_path)
             test_df= pd.read_csv(test_path)
@@ -40,6 +40,8 @@ class data_transformation_initiate:
                 remainder="passthrough"
             )
             pipeline = Pipeline(steps=[('preprocessor', CC)])
+            pipeline.fit(train_df[["age", "job", "marital", "education", "default", "Some Loan","month", "poutcome","contact",
+           "cons_conf_idx", "euribor3m", "nr_employed","previous_bins","duration","cons_price_idx"]])
             logging.info("Pickle File")
             save_obj(
                 self.preprocessor_path.data_preprocessor_path,
