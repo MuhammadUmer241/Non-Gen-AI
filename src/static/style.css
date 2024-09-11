@@ -36,3 +36,10 @@ button {
   border: none;
   cursor: pointer;
 }
+
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}

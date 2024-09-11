@@ -21,3 +21,8 @@ def save_obj(pipeline_path, pipeline):
         raise Custom_Exception(e, sys)
 
 
+def open_pickle(file_path):
+    with open(file_path, "rb") as file:
+        OP = pickle.load(file)
+        return OP
+
