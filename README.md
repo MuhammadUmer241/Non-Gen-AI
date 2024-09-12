@@ -7,8 +7,8 @@ Machine Learning: Utilizing appropriate algorithms to build a predictive model.
 Flask Web App: Developing a user-friendly web interface using Flask, HTML, and CSS to interact with the model.
 
 # Table Of Content 
-1.[Purpose](#Purpose)
-2.[Target Audience](#TargetAudience)
+#### [Purpose](#Purpose)
+#### [Target Audience](#TargetAudience)
 -[Usage](#Usage)
 -[File Structure](#FileStructure)
 -[Configuration](#Configuration)
@@ -84,10 +84,10 @@ src/
 # Issues and Contributing
 <a name="IssuesandContributing"></a>If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the repository's GitHub page. Contributions are welcome! To contribute:
 
-1.Fork the repository.
-2.Create a new branch for your feature or bug fix.
-3.Make your changes and commit them.  
-4.Submit a pull request to the main repository.
+#### 1.Fork the repository.
+#### 2.Create a new branch for your feature or bug fix.
+#### 3.Make your changes and commit them.  
+#### 4.Submit a pull request to the main repository.
 
 # License
 <a name= "License"></a>This repository is licensed under the MIT License.  
