@@ -95,13 +95,14 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 #### 4.Submit a pull request to the main repository.
 
 # License
-This repository is licensed under the MIT License.  
 <a name= "License"></a>
+This repository is licensed under the MIT License.  
+
 
 # Author
-
+<a name="Author"></a>
 ##### Muhammad Umer
-<a name= "Author"></a>
+
 Linkdln:
 -```https://www.linkedin.com/in/muhammad-umer-881466293/```
 
