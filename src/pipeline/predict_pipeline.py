@@ -44,9 +44,6 @@ class predict_by_post:
         except  Exception as e:
             Custom_Exception(e, sys)
 
-# obj= predict_by_post()
-# y= obj.predict(df_)
-# print(y)
 
 
 

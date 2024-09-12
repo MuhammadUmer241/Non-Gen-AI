@@ -40,9 +40,6 @@ class dataingestion:
             train_set.to_csv(os.path.join(root_dir, self.path_ingestion.train_path), index=False, header=True)
             test_set.to_csv(os.path.join(root_dir, self.path_ingestion.test_path), index=False, header=True)
 
-
-
-
             return  (
                 os.path.join(root_dir, self.path_ingestion.train_path),
                 os.path.join(root_dir, self.path_ingestion.test_path)
