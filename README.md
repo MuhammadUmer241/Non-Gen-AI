@@ -7,22 +7,22 @@ Machine Learning: Utilizing appropriate algorithms to build a predictive model.
 Flask Web App: Developing a user-friendly web interface using Flask, HTML, and CSS to interact with the model.
 
 # Table Of Content 
-#### [Purpose](#Purpose)
-#### [Target Audience](#TargetAudience)
-#### [Usage](#Usage)
-#### [File Structure](#FileStructure)
-#### [Configuration](#Configuration)
+#### [Purpose](#Purpose1)
+#### [Target Audience](#TargetAudience1)
+#### [Usage](#Usage1)
+#### [File Structure](#FileStructure1)
+#### [Configuration](#Configuration1)
 #### [Issues and Contributing](#IssuesandContributing1)
 #### [License](#License1)
-#### [Author](#Author)
+#### [Author](#Author1)
 
 # Purpose: 
-<a name="purpose"></a> 
+<a name="Purpose1"></a> 
 The primary goal of this repository is to provide a hands-on learning experience for individuals interested in exploring the field of machine learning. By studying and experimenting with the code, users can gain a deeper understanding of end-to-end projects solutions for best practices.
 
 
  # Target Audience:
- <a name="TargetAudience"></a>
+ <a name="TargetAudience1"></a>
 This repository is suitable for a wide range of individuals, including:
 -Data scientists
 -Machine learning enthusiasts
@@ -30,7 +30,7 @@ This repository is suitable for a wide range of individuals, including:
 -Developers working on data-driven projects
 
 # Usage:
-<a name="Usage"></a>
+<a name="Usage1"></a>
 Installation:
 Clone the repository:
 ```
@@ -52,7 +52,7 @@ Got to this link to your local machine
 
 
  # File Structure :
- <a name="FileStructure"></a>
+ <a name="FileStructure1"></a>
 Artifacts/
   - Train/ (contains training data)
   - Test/ (contains testing data)
@@ -82,7 +82,7 @@ src/
 
 
 # Configuration:
-<a name="Configuration"></a>
+<a name="Configuration1"></a>
 This repository currently doesn't require any specific configuration. However, if you plan to use external services or modify the code, you might need to set up environment variables or configure certain parameters.
 
 # Issues and Contributing:
@@ -100,7 +100,7 @@ This repository is licensed under the MIT License.
 
 
 # Author:
-<a name="Author"></a>
+<a name="Author1"></a>
 ##### Muhammad Umer
 
 Linkdln:
