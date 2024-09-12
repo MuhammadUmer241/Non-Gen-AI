@@ -96,7 +96,7 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 
 # License:
 <a name= "License1"></a>
-This repository is licensed under the MIT License.  
+This repository is licensed under the MIT [Licence](#https://github.com/MuhammadUmer241/Non-Gen-AI/blob/main/LICENSE.txt).  
 
 
 # Author:
