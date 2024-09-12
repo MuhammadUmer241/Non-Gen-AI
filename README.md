@@ -7,7 +7,7 @@ Machine Learning: Utilizing appropriate algorithms to build a predictive model.
 Flask Web App: Developing a user-friendly web interface using Flask, HTML, and CSS to interact with the model.
 
 # Table Of Content 
-[Link Text](#Purpose)
+[Purpose](#Purpose)
 [Link Text](#heading1)
 [Link Text](#heading1)
 [Link Text](#heading1)
