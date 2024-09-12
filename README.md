@@ -7,8 +7,8 @@ Machine Learning: Utilizing appropriate algorithms to build a predictive model.
 Flask Web App: Developing a user-friendly web interface using Flask, HTML, and CSS to interact with the model.
 
 # Table Of Content 
--[Purpose](#Purpose)
--[Target Audience](#TargetAudience)
+1.[Purpose](#Purpose)
+2.[Target Audience](#TargetAudience)
 -[Usage](#Usage)
 -[File Structure](#FileStructure)
 -[Configuration](#Configuration)
@@ -55,20 +55,23 @@ Got to this link to your local machine
   - model.pkl (trained model)
   - preprocessor.pkl (preprocessor object)
 src/
-  - utils.py (common functions)
-  - Logger.py (logging functionality)
-  - exceptions.py (custom exception handling)
+  - ```utils.py``` (common functions)
+  - ```Logger.py``` (logging functionality)
+  - ```exceptions.py``` (custom exception handling)
+  - notebook/
+    -```EDA.ipynb``` (EDA to understand Data)
   - components/
-    - data_ingestion.py (data loading and splitting)
-    - data_transformation.py (data transformation logic)
+    - ```data_ingestion.py``` (data loading and splitting)
+    - ```data_transformation.py``` (data transformation logic)
+    - ```model_trainer.py``` (to train the model)
   - pipeline/
-    - predict_pipeline.py (prediction pipeline)
+    - ```predict_pipeline.py``` (prediction pipeline)
   - templates/
-    - index.html (GET request template)
-    - home.html (POST request template)
+    - ```index.html``` (GET request template)
+    - ```home.html``` (POST request template)
   - static/
-    - styles.css (stylesheets)
-app.py (Flask application)
+    - ```styles.css``` (stylesheets)
+```app.py``` (Flask application)
 
 -It is not recomended to change the structures and names of Directories and Files
 
@@ -90,10 +93,10 @@ app.py (Flask application)
 <a name= "License"></a>This repository is licensed under the MIT License.  
 
 # Author
-Muhammad Umer
+##### Muhammad Umer
 Linkdln:
-```https://www.linkedin.com/in/muhammad-umer-881466293/```
+-```https://www.linkedin.com/in/muhammad-umer-881466293/```
 
 Email:
-```umernadeem241@gmail.com```
+-```umernadeem241@gmail.com```
 
