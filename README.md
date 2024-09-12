@@ -2,7 +2,7 @@
 This repository contains a machine learning model designed to predict whether a bank customer will respond positively or negatively to a marketing campaign. The model leverages various data science techniques, including:
 
 Exploratory Data Analysis (EDA): In-depth analysis to understand the data, identify patterns, and handle missing values.
-Data Ingestion: Efficiently loading and preprocessing the dataset for modeling.
+Data Ingestion and Transformation: Efficiently loading and preprocessing the dataset for modeling.
 Machine Learning: Utilizing appropriate algorithms to build a predictive model.
 Flask Web App: Developing a user-friendly web interface using Flask, HTML, and CSS to interact with the model.
 
@@ -40,4 +40,45 @@ Ensure you have the necessary Python libraries installed. You can use a requirem
 pip install -r requirements.txt
 ```
 
+# File Structure 
+Artifacts/
+  - Train/ (contains training data)
+  - Test/ (contains testing data)
+  - Raw_Data/ (contains raw data)
+  - model.pkl (trained model)
+  - preprocessor.pkl (preprocessor object)
+src/
+  - utils.py (common functions)
+  - Logger.py (logging functionality)
+  - exceptions.py (custom exception handling)
+  - components/
+    - data_ingestion.py (data loading and splitting)
+    - data_transformation.py (data transformation logic)
+  - pipeline/
+    - predict_pipeline.py (prediction pipeline)
+  - templates/
+    - index.html (GET request template)
+    - home.html (POST request template)
+  - static/
+    - styles.css (stylesheets)
+app.py (Flask application)
+
 -It is not recomended to change the structures and names of Directories and Files
+
+
+
+# Configuration
+This repository currently doesn't require any specific configuration. However, if you plan to use external services or modify the code, you might need to set up environment variables or configure certain parameters.
+
+
+# Issues and Contributing
+If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the repository's GitHub page. Contributions are welcome! To contribute:
+
+1.Fork the repository.
+2.Create a new branch for your feature or bug fix.
+3.Make your changes and commit them.  
+4.Submit a pull request to the main repository.
+
+# License
+This repository is licensed under the MIT License.  
+
