@@ -15,7 +15,7 @@ Flask Web App: Developing a user-friendly web interface using Flask, HTML, and C
 [Link Text](#heading1)
 
 # Purpose:
-The primary goal of this repository is to provide a hands-on learning experience for individuals interested in exploring the field of machine learning. By studying and experimenting with the code, users can gain a deeper understanding of end-to-end projects solutions for best practices.
+<a name="purpose"></a>The primary goal of this repository is to provide a hands-on learning experience for individuals interested in exploring the field of machine learning. By studying and experimenting with the code, users can gain a deeper understanding of end-to-end projects solutions for best practices.
 
 
 # Target Audience:
