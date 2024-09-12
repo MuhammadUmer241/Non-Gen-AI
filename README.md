@@ -47,7 +47,7 @@ Run ```app.py``` in your IDE
 Got to this link to your local machine
 ```http://127.0.0.1:5000/```
 
-<a name="FileStructure"></a># File Structure 
+<a name="FileStructure"></a> # File Structure 
 Artifacts/
   - Train/ (contains training data)
   - Test/ (contains testing data)
