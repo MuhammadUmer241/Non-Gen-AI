@@ -29,7 +29,7 @@ This repository is suitable for a wide range of individuals, including:
 -Students and researchers
 -Developers working on data-driven projects
 
-# Usage
+# Usage:
 <a name="Usage"></a>
 Installation:
 Clone the repository:
@@ -51,7 +51,7 @@ Got to this link to your local machine
 ```http://127.0.0.1:5000/```
 
 
- # File Structure 
+ # File Structure :
  <a name="FileStructure"></a>
 Artifacts/
   - Train/ (contains training data)
@@ -81,11 +81,11 @@ src/
 -It is not recomended to change the structures and names of Directories and Files
 
 
-# Configuration
+# Configuration:
 <a name="Configuration"></a>
 This repository currently doesn't require any specific configuration. However, if you plan to use external services or modify the code, you might need to set up environment variables or configure certain parameters.
 
-# Issues and Contributing
+# Issues and Contributing:
 <a name="IssuesandContributing1"></a>
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the repository's GitHub page. Contributions are welcome! To contribute:
 
@@ -94,12 +94,12 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 #### 3.Make your changes and commit them.  
 #### 4.Submit a pull request to the main repository.
 
-# License
+# License:
 <a name= "License"></a>
 This repository is licensed under the MIT License.  
 
 
-# Author
+# Author:
 <a name="Author"></a>
 ##### Muhammad Umer
 
