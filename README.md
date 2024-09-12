@@ -28,12 +28,16 @@ This repository is suitable for a wide range of individuals, including:
 # Usage
 Installation:
 Clone the repository:
-bash ` git clone https://github.com/MuhammadUmer241/Non-Genrative-AI.git`
+```
+git clone https://github.com/MuhammadUmer241/Non-Genrative-AI.git
+```
 Use code with caution.
 
 Install dependencies:
 Ensure you have the necessary Python libraries installed. You can use a requirements.txt file or install them individually:
 
-bash ```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 -It is not recomended to change the structures and names of Directories and Files
