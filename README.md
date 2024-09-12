@@ -6,7 +6,7 @@ Data Ingestion: Efficiently loading and preprocessing the dataset for modeling.
 Machine Learning: Utilizing appropriate algorithms to build a predictive model.
 Flask Web App: Developing a user-friendly web interface using Flask, HTML, and CSS to interact with the model.
 
-#Table Of Content 
+# Table Of Content 
 <a name="heading1"></a>This is the first heading.
 <a name="heading1"></a>This is the first heading.
 <a name="heading1"></a>This is the first heading.
