@@ -13,7 +13,7 @@ Flask Web App: Developing a user-friendly web interface using Flask, HTML, and C
 #### [File Structure](#FileStructure)
 #### [Configuration](#Configuration)
 #### [Issues and Contributing](#IssuesandContributing1)
-#### [License](#License)
+#### [License](#License1)
 #### [Author](#Author)
 
 # Purpose: 
@@ -95,7 +95,7 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 #### 4.Submit a pull request to the main repository.
 
 # License:
-<a name= "License"></a>
+<a name= "License1"></a>
 This repository is licensed under the MIT License.  
 
 
