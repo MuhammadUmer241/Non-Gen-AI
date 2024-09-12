@@ -16,19 +16,19 @@ Flask Web App: Developing a user-friendly web interface using Flask, HTML, and C
 #### [License](#License)
 #### [Author](#Author)
 
-# Purpose:
-<a name="purpose"></a>The primary goal of this repository is to provide a hands-on learning experience for individuals interested in exploring the field of machine learning. By studying and experimenting with the code, users can gain a deeper understanding of end-to-end projects solutions for best practices.
+<a name="purpose"></a># Purpose:
+The primary goal of this repository is to provide a hands-on learning experience for individuals interested in exploring the field of machine learning. By studying and experimenting with the code, users can gain a deeper understanding of end-to-end projects solutions for best practices.
 
 
-# Target Audience:
-<a name="TargetAudience"></a>This repository is suitable for a wide range of individuals, including:
+<a name="TargetAudience"></a> # Target Audience:
+This repository is suitable for a wide range of individuals, including:
 -Data scientists
 -Machine learning enthusiasts
 -Students and researchers
 -Developers working on data-driven projects
 
-# Usage
-<a name="Usage"></a>Installation:
+<a name="Usage"></a># Usage
+Installation:
 Clone the repository:
 ```
 git clone https://github.com/MuhammadUmer241/Non-Genrative-AI.git
@@ -47,8 +47,8 @@ Run ```app.py``` in your IDE
 Got to this link to your local machine
 ```http://127.0.0.1:5000/```
 
-# File Structure 
-<a name="FileStructure"></a>Artifacts/
+<a name="FileStructure"></a># File Structure 
+Artifacts/
   - Train/ (contains training data)
   - Test/ (contains testing data)
   - Raw_Data/ (contains raw data)
@@ -77,23 +77,23 @@ src/
 
 
 
-# Configuration
-<a name="Configuration"></a>This repository currently doesn't require any specific configuration. However, if you plan to use external services or modify the code, you might need to set up environment variables or configure certain parameters.
+<a name="Configuration"></a># Configuration
+This repository currently doesn't require any specific configuration. However, if you plan to use external services or modify the code, you might need to set up environment variables or configure certain parameters.
 
 
-# Issues and Contributing
-<a name="IssuesandContributing1"></a>If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the repository's GitHub page. Contributions are welcome! To contribute:
+<a name="IssuesandContributing1"></a># Issues and Contributing
+If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the repository's GitHub page. Contributions are welcome! To contribute:
 
 #### 1.Fork the repository.
 #### 2.Create a new branch for your feature or bug fix.
 #### 3.Make your changes and commit them.  
 #### 4.Submit a pull request to the main repository.
 
-# License
-<a name= "License"></a>This repository is licensed under the MIT License.  
+<a name= "License"></a># License
+This repository is licensed under the MIT License.  
 
-# Author
-<a name= "Author"></a>##### Muhammad Umer
+<a name= "Author"></a># Author
+##### Muhammad Umer
 Linkdln:
 -```https://www.linkedin.com/in/muhammad-umer-881466293/```
 
