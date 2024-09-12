@@ -28,7 +28,7 @@ This repository is suitable for a wide range of individuals, including:
 # Usage
 Installation:
 Clone the repository:
-bash ``` git clone https://github.com/MuhammadUmer241/Non-Genrative-AI.git```
+bash ` git clone https://github.com/MuhammadUmer241/Non-Genrative-AI.git`
 Use code with caution.
 
 Install dependencies:
