@@ -82,7 +82,7 @@ src/
 
 
 # Issues and Contributing
-<a name="IssuesandContributing"></a>If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the repository's GitHub page. Contributions are welcome! To contribute:
+<a name="IssuesandContributing1"></a>If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the repository's GitHub page. Contributions are welcome! To contribute:
 
 #### 1.Fork the repository.
 #### 2.Create a new branch for your feature or bug fix.
@@ -93,7 +93,7 @@ src/
 <a name= "License"></a>This repository is licensed under the MIT License.  
 
 # Author
-##### Muhammad Umer
+<a name= "Author"></a>##### Muhammad Umer
 Linkdln:
 -```https://www.linkedin.com/in/muhammad-umer-881466293/```
 
