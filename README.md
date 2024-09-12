@@ -5,6 +5,13 @@ Exploratory Data Analysis (EDA): In-depth analysis to understand the data, ident
 Data Ingestion and Transformation: Efficiently loading and preprocessing the dataset for modeling.
 Machine Learning: Utilizing appropriate algorithms to build a predictive model.
 Flask Web App: Developing a user-friendly web interface using Flask, HTML, and CSS to interact with the model.
+# Interface
+### GET Request 
+![image](https://github.com/user-attachments/assets/1ad3f9cd-5966-4372-baf4-ae4eccdccd7b)
+![image](https://github.com/user-attachments/assets/291ba1ca-157e-4bfa-bb40-608715edfbfd)
+### Post Request
+![image](https://github.com/user-attachments/assets/86e81393-a3a6-4c57-a294-1418488be701)
+
 
 # Table Of Content 
 - #### [Purpose](#Purpose1)
