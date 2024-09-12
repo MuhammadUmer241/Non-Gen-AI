@@ -9,12 +9,12 @@ Flask Web App: Developing a user-friendly web interface using Flask, HTML, and C
 # Table Of Content 
 #### [Purpose](#Purpose)
 #### [Target Audience](#TargetAudience)
--[Usage](#Usage)
--[File Structure](#FileStructure)
--[Configuration](#Configuration)
--[Issues and Contributing](#IssuesandContributing1)
--[License](#License)
--[Author](#Author)
+#### [Usage](#Usage)
+#### [File Structure](#FileStructure)
+#### [Configuration](#Configuration)
+#### [Issues and Contributing](#IssuesandContributing1)
+#### [License](#License)
+#### [Author](#Author)
 
 # Purpose:
 <a name="purpose"></a>The primary goal of this repository is to provide a hands-on learning experience for individuals interested in exploring the field of machine learning. By studying and experimenting with the code, users can gain a deeper understanding of end-to-end projects solutions for best practices.
